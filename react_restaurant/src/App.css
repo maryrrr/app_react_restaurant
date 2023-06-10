@@ -1,0 +1,23 @@
+#root {
+  max-width: 90rem;
+  margin: 0 auto;
+  padding: 0.5rem;
+  text-align: center;
+
+}
+body{
+  border: 5.5rem solid rgb(46, 51, 46) ;
+  background-color: rgb(241, 212, 176);
+}
+
+h1,h2{
+  font-family: cursive;
+  
+}
+
+ul{
+  list-style-type: none;
+}
+
+
+
